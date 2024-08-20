@@ -241,7 +241,7 @@ pencil-square:
 pencil-square-o:
   name: pen-to-square
   prefix: far
-picture:
+Picture:
   name: image
 pie-chart:
   name: chart-pie

@@ -96,11 +96,11 @@
 .fa.fa-video-camera:before {
   content: "\f03d"; }
 
-.fa.fa-picture-o {
+.fa.fa-Picture-o {
   font-family: 'Font Awesome 6 Free';
   font-weight: 400; }
 
-.fa.fa-picture-o:before {
+.fa.fa-Picture-o:before {
   content: "\f03e"; }
 
 .fa.fa-photo {
@@ -1157,11 +1157,11 @@
 .fa.fa-file-photo-o:before {
   content: "\f1c5"; }
 
-.fa.fa-file-picture-o {
+.fa.fa-file-Picture-o {
   font-family: 'Font Awesome 6 Free';
   font-weight: 400; }
 
-.fa.fa-file-picture-o:before {
+.fa.fa-file-Picture-o:before {
   content: "\f1c5"; }
 
 .fa.fa-file-archive-o {
